@@ -62,7 +62,4 @@
     <Build Include="Course.sql" />
     <Build Include="Inscription.sql" />
   </ItemGroup>
-  <ItemGroup>
-    <PreDeploy Include="Script.PreDeployment1.sql" />
-  </ItemGroup>
 </Project>
